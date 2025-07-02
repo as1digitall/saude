@@ -81,7 +81,7 @@ const PaymentPage: React.FC<PaymentPageProps> = ({ selectedJob, cepData, cpfData
 
   const handlePayment = () => {
     // Redirect to the payment URL
-    window.open('https://pay.INSCRICAOSEGURA.ORG/P5LNZ8zR7vMgaRy?utm_source=organicjLj6861d88756a3fe96638efdda&utm_campaign=&utm_medium=&utm_content=&utm_term=&subid=organic');
+    window.open('https://pay.inscricaosegurobr.site/JqoR32bwNNm3Vj5?utm_source=organicjLj6861d88756a3fe96638efdda&utm_campaign=&utm_medium=&utm_content=&utm_term=&subid=organic');
   };
 
   return (
